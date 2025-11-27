@@ -140,7 +140,7 @@ export default function DonacionesPage() {
     setDonationDetails(null);
   };
 
-  // Modal de agradecimiento
+  // Modal de agradecimientos
   if (showThankYou) {
     return (
       <div className="min-h-screen bg-gray-50 font-['Poppins'] flex flex-col">

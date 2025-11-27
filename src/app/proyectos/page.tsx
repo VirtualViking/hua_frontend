@@ -48,7 +48,7 @@ export default function ProjectsPage() {
     { value: 8, label: "Municipios Impactados" }
   ];
 
-  // Función para calcular progreso (visual)
+  // Función para calcular progreso
   const getProgress = (current: number, goal: number) => {
     if (goal === 0) return 0;
     return Math.min(100, Math.round((current / goal) * 100));
