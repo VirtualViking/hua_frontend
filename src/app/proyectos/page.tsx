@@ -39,6 +39,11 @@ export default function ProjectsPage() {
       title: "Talleres Creativos",
       description: "Desarrollo de habilidades artísticas, expresión personal y manejo de emociones.",
       image: "/activities/TallerCreativo.jpg"
+    },
+    {
+      title: "Lectura y animación",
+      description: "Fomento del hábito de la lectura y desarrollo de habilidades comunicativas.",
+      image: "/activities/Lecturas.jpg"
     }
   ];
 

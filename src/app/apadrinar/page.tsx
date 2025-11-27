@@ -221,7 +221,7 @@ export default function ApadrinarPage() {
             </div>
             <div className="relative h-[400px] rounded-xl overflow-hidden shadow-lg">
               <Image
-                src="/apadrinamiento.jpg"
+                src="/padrinos.jpg"
                 alt="Programa de Apadrinamiento"
                 fill
                 className="object-cover"
