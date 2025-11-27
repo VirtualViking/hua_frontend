@@ -98,10 +98,6 @@ export default function EventsPage() {
                       {event.description}
                     </p>
                   </div>
-                  
-                  <button className="text-[#1E3A5F] font-semibold text-sm hover:underline self-start">
-                    Ver detalles &rarr;
-                  </button>
                 </div>
               </div>
             ))}

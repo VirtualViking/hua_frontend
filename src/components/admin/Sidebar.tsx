@@ -28,6 +28,7 @@ export default function Sidebar() {
       {/* Logo Area */}
       <div className="p-6 border-b border-gray-100 flex items-center justify-center">
         <h1 className="text-2xl font-bold text-[#1E3A5F]">Huahuacuna</h1>
+        <img src="/logo.png" alt="Logo" className="w-10 h-10 ml-2" />
       </div>
 
       {/* Navigation */}
