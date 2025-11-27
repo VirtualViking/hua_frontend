@@ -129,24 +129,29 @@ export default function Navbar() {
                   >
                     Apadrinar
                   </Link>
+                  
+                  {/* ✅ CAMBIO: Reemplazamos Impacto por Eventos */}
                   <Link
-                    href="/impacto"
+                    href="/eventos"
                     className="text-[#1E3A5F]/90 hover:text-[#1E3A5F] font-semibold text-sm transition-colors"
                   >
-                    Impacto
+                    Eventos
                   </Link>
+
                   <Link
                     href="/proyectos"
                     className="text-[#1E3A5F]/90 hover:text-[#1E3A5F] font-semibold text-sm transition-colors"
                   >
                     Proyectos
                   </Link>
+
                   <Link
                     href="/voluntariado"
                     className="text-[#1E3A5F]/90 hover:text-[#1E3A5F] font-semibold text-sm transition-colors"
                   >
                     Voluntariado
                   </Link>
+
                   <Link
                     href="/historia"
                     className="text-[#1E3A5F]/90 hover:text-[#1E3A5F] font-semibold text-sm transition-colors"
